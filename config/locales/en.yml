@@ -17,3 +17,8 @@ en:
 
   titles:
     application: Railstutorial
+    pages:
+      home: Home
+      help: Help
+      about: About
+      contact: Contact
