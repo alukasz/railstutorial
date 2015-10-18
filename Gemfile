@@ -27,6 +27,7 @@ gem "title"
 gem "uglifier"
 
 gem "bootstrap-sass"
+gem "bcrypt"
 
 group :development do
   gem "spring"
