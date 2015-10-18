@@ -26,6 +26,8 @@ gem "simple_form"
 gem "title"
 gem "uglifier"
 
+gem "bootstrap-sass"
+
 group :development do
   gem "spring"
   gem "spring-commands-rspec"
