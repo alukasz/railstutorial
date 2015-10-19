@@ -24,3 +24,5 @@ en:
       contact: Contact
     users:
       new: Sign up
+    sessions:
+      new: Log in
