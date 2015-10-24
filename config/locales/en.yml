@@ -23,6 +23,8 @@ en:
       about: About
       contact: Contact
     users:
+      index: All users
       new: Sign up
+      edit: Update your profile
     sessions:
       new: Log in
