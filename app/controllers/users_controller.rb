@@ -19,7 +19,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     if @user.save
       flash[:success] = "Welcome to Sample App"
-      send_activation_email
+      @user.send_activation_email
       redirect_to @user
     else
       render 'new'
